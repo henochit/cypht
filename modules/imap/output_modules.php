@@ -1328,7 +1328,7 @@ class Hm_Output_stepper_setup_server_imap extends Hm_Output_Module {
                               </div>
                               <span id="srv_setup_stepper_imap_port-error" class="invalid-feedback"></span>
                         </div>
-                        <div class="p-2 flex-fill">
+                        <div class="px-2 flex-fill">
                             <div class="form-check">
                                 <input class="form-check-input" type="radio" id="imap_tls" name="srv_setup_stepper_imap_tls">
                                 <label class="form-check-label" style="font-size: 12px;" for="imap_tls">
